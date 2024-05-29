@@ -1,0 +1,17 @@
+# NAME: ID
+# AUTHOR: Leo
+# REPO: https://github.com/koo17173/rule-set
+# UPDATED: 2024-05-29 22:10:50
+# HOST: 0
+# HOST-KEYWORD: 0
+# HOST-SUFFIX: 4
+# HOST-WILDCARD: 0
+# IP-CIDR: 0
+# IP6-CIDR: 0
+# USER-AGENT: 0
+# TOTAL: 4
+DOMAIN-SUFFIX,mandirisekuritas.co.id,Mandiri
+DOMAIN-SUFFIX,1e100.net,Mandiri
+HOST-SUFFIX,mandirisekuritas,Mandiri
+HOST-KEYWORD,mandirisekuritas,Mandiri
+USER-AGENT,mandirisekuritas,Mandiri
