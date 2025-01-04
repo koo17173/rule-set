@@ -4,24 +4,33 @@ DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,talkatone.com
 DOMAIN-SUFFIX,kochava.com
-# 这个域名最好走代理，我这边直连已超时
 DOMAIN-SUFFIX,tktn.be
 DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,agkn.com
 DOMAIN-SUFFIX,tktn.at
-IP-CIDR,50.117.27.0/24
-IP-CIDR,69.46.75.0/24
-IP-CIDR,205.164.56.0/24
-IP-CIDR,63.251.124.0/24
+DOMAIN-SUFFIX,inner-active.mobi
+IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve
+IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve
+IP-CIDR,216.172.154.0/24,no-resolve
 # T-Mobile
 # > 注：1.代理线路需支持UDP 2.最好为美国线路IPLC
 IP-CIDR,66.94.0.0/19,no-resolve
 IP-CIDR,206.29.177.36/32,no-resolve
 IP-CIDR,208.54.0.0/16,no-resolve
-DOMAIN-SUFFIX,t-mobile.com
 # Wifi Calling
-DOMAIN,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
-DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,crl.t-mobile.com
+DOMAIN-SUFFIX,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,eas3.msg.t-mobile.com
+DOMAIN-SUFFIX,mascns.t-mobile.com
+DOMAIN-SUFFIX,ns.sipgeo.t-mobile.com
+DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,redirect.ultra.me
+DOMAIN-SUFFIX,ultramobile.com
+DOMAIN-SUFFIX,t-mobile.com
