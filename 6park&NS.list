@@ -1,36 +1,15 @@
-# talkatone
-DOMAIN-SUFFIX,mobilefuse.com
-DOMAIN-SUFFIX,inmobi.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,talkatone.com
-DOMAIN-SUFFIX,kochava.com
-DOMAIN-SUFFIX,tktn.be
-DOMAIN-SUFFIX,cohere.com
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,agkn.com
-DOMAIN-SUFFIX,tktn.at
-DOMAIN-SUFFIX,inner-active.mobi
-IP-CIDR,50.117.27.0/24,no-resolve
-IP-CIDR,69.46.75.0/24,no-resolve
-IP-CIDR,205.164.56.0/24,no-resolve
-IP-CIDR,63.251.124.0/24,no-resolve
-IP-CIDR,216.172.154.0/24,no-resolve
-# T-Mobile/Ultramobile
-# > 注：1.代理线路需支持UDP 2.最好为美国线路IPLC
-IP-CIDR,66.94.0.0/19,no-resolve
-IP-CIDR,206.29.177.36/32,no-resolve
-IP-CIDR,208.54.0.0/16,no-resolve
-# Wifi Calling
-DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
-DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN-SUFFIX,crl.t-mobile.com
-DOMAIN-SUFFIX,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org
-DOMAIN-SUFFIX,eas3.msg.t-mobile.com
-DOMAIN-SUFFIX,mascns.t-mobile.com
-DOMAIN-SUFFIX,ns.sipgeo.t-mobile.com
-DOMAIN-SUFFIX,optimizely.com
-DOMAIN-SUFFIX,redirect.ultra.me
-DOMAIN-SUFFIX,ultramobile.com
-DOMAIN-SUFFIX,t-mobile.com
+# NAME: 6park
+# AUTHOR: blackmatrix7&leo
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-01-06
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,6park.com
+DOMAIN-SUFFIX,6parkbbs.com
+DOMAIN-SUFFIX,6parknews.com
+DOMAIN-SUFFIX,cool18.com
+#Nodeseek
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,mjj.today
+DOMAIN-SUFFIX,img.xxxh.de
+DOMAIN-SUFFIX,ssiic.com
