@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,mjj.today
 DOMAIN-SUFFIX,img.xxxh.de
 DOMAIN-SUFFIX,ssiic.com
 #Gojek
-DOMAIN-SUFFIX,gojek.com
+DOMAIN,gojek.com
 DOMAIN-SUFFIX,gojek.io
 DOMAIN-SUFFIX,gojek.link
 DOMAIN-SUFFIX,go-jek.com
@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,go-pay.co.id
 DOMAIN-SUFFIX,uninstallkhawatir.com
 DOMAIN-SUFFIX,harkulnas.co.id
 DOMAIN-SUFFIX,gojek.co.id
-DOMAIN-SUFFIX,gopay.co.id
+DOMAIN,gopay.co.id
 DOMAIN-SUFFIX,gotocompany.com
 DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,gstatic.com
