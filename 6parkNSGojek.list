@@ -28,3 +28,9 @@ DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gojek.jobs
 DOMAIN-KEYWORD,gojek
+#MOST
+DOMAIN,most.co.id
+DOMAIN,mandirisekuritas.co.id
+DOMAIN,growin.id
+DOMAIN-KEYWORD,mandirisekuritas
+DOMAIN-KEYWORD,Mandiri
