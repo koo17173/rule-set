@@ -2,12 +2,15 @@
 # AUTHOR: leo
 # REPO: 
 # UPDATED: 2025-03-01
-# DOMAIN-SUFFIX: 1
-# DOMAIN: 1
-# TOTAL: 3
+# DOMAIN-SUFFIX: 3
+# DOMAIN: 3
+# TOTAL: 9
 DOMAIN-SUFFIX,zlglobal.htsc.com.hk
 DOMAIN-SUFFIX,gb.zhangle.com
+DOMAIN-SUFFIX,m.zhangleglobal.com
 DOMAIN,htsc.com.hk
 DOMAIN,zhangle.com
+DOMAIN,zhangleglobal.com
 DOMAIN-KEYWORD,htsc
 DOMAIN-KEYWORD,zhangle
+DOMAIN-KEYWORD,zhangleglobal
