@@ -1,0 +1,20 @@
+# NAME: longbridge
+# AUTHOR: leo
+# REPO: 
+# UPDATED: 2025-03-01
+# DOMAIN-SUFFIX: 10
+# DOMAIN: 3
+# TOTAL: 13
+DOMAIN-SUFFIX,event-tracking.lbctrl.com
+DOMAIN-SUFFIX,api.lbctrl.com
+DOMAIN-SUFFIX,assets.lbctrl.com
+DOMAIN-SUFFIX,m.lbctrl.com
+DOMAIN-SUFFIX,quote.lbctrl.com
+DOMAIN-SUFFIX,geotest.lbctrl.com
+DOMAIN-SUFFIX,ws.lbctrl.com
+DOMAIN-SUFFIX,lb-desktop.lbctrl.com
+DOMAIN-SUFFIX,trade.longportapp.com
+DOMAIN-SUFFIX,static.lbctrl.com
+DOMAIN,lbctrl.com
+DOMAIN,longportapp.com
+DOMAIN,longportapp.cn
