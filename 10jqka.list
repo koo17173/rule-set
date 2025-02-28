@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,zx.10jqka.com.cn
 DOMAIN-SUFFIX,dsfwt.10jqka.com.cn
 DOMAIN-SUFFIX,hqstats.10jqka.com.cn
 DOMAIN-SUFFIX,news.10jqka.com.cn
+DOMAIN-SUFFIX,m.10jqka.com.cn
 DOMAIN-SUFFIX,e.thsi.cn
 DOMAIN-SUFFIX,s.thsi.cn
 DOMAIN-SUFFIX,u.thsi.cn
@@ -41,3 +42,7 @@ DOMAIN,10jqka.com.cn
 DOMAIN,hexun.com
 DOMAIN,iwencai.com
 DOMAIN,thsi.cn
+DOMAIN-KEYWORD,10jqka.com.cn
+DOMAIN-KEYWORD,hexun.com
+DOMAIN-KEYWORD,iwencai.com
+DOMAIN-KEYWORD,thsi.cn
