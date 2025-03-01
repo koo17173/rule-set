@@ -39,12 +39,13 @@ DOMAIN,futunn.com
 DOMAIN,futu.com
 DOMAIN,futufin.com
 DOMAIN,moomoo.com
+DOMAIN,futu5.com
 DOMAIN-KEYWORD,futuhk
 DOMAIN-KEYWORD,futunn
 DOMAIN-KEYWORD,futu
 DOMAIN-KEYWORD,futufin
 DOMAIN-KEYWORD,moomoo
-IP-CIDR,149.154.175.0/24
+DOMAIN-KEYWORD,futu5
 # NAME: longbridge
 DOMAIN-SUFFIX,event-tracking.lbctrl.com
 DOMAIN-SUFFIX,api.lbctrl.com
