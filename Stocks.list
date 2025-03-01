@@ -48,6 +48,11 @@ DOMAIN,lbctrl.com
 DOMAIN,longportapp.com
 DOMAIN,longportapp.cn
 DOMAIN,longbridgeapp.com
+DOMAIN,longbridge.hk
+DOMAIN-KEYWORD,longbridge
+DOMAIN-KEYWORD,longportapp
+DOMAIN-KEYWORD,longbridgeapp
+DOMAIN-KEYWORD,lbctrl
 # NAME: 10jqka
 DOMAIN-SUFFIX,xfer.10jqka.com.cn
 DOMAIN-SUFFIX,auth.10jqka.com.cn
