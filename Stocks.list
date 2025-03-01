@@ -44,15 +44,22 @@ DOMAIN-SUFFIX,lb-desktop.lbctrl.com
 DOMAIN-SUFFIX,trade.longportapp.com
 DOMAIN-SUFFIX,static.lbctrl.com
 DOMAIN-SUFFIX,quote.longbridge.global
+DOMAIN-SUFFIX,pub.lbkrs.com
+DOMAIN-SUFFIX,m.lbkrs.com
+DOMAIN-SUFFIX,fourier.alibaba.com
 DOMAIN,lbctrl.com
+DOMAIN,lbkrs.com
+DOMAIN,wbrks.com
 DOMAIN,longportapp.com
 DOMAIN,longportapp.cn
 DOMAIN,longbridgeapp.com
 DOMAIN,longbridge.hk
+DOMAIN,qiyukf.com
 DOMAIN-KEYWORD,longbridge
 DOMAIN-KEYWORD,longportapp
 DOMAIN-KEYWORD,longbridgeapp
 DOMAIN-KEYWORD,lbctrl
+DOMAIN-KEYWORD,lbkrs
 # NAME: 10jqka
 DOMAIN-SUFFIX,xfer.10jqka.com.cn
 DOMAIN-SUFFIX,auth.10jqka.com.cn
