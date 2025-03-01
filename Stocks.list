@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,zhangle
 DOMAIN-KEYWORD,zhangleglobal
 # NAME: futu
 DOMAIN-SUFFIX,api.futunn.com
+DOMAIN-SUFFIX,api.moomoo.com
 DOMAIN-SUFFIX,conf.futunn.com
 DOMAIN-SUFFIX,update1.futunn.com
 DOMAIN-SUFFIX,softwaredownload.futunn.com
@@ -34,6 +35,13 @@ DOMAIN-SUFFIX,collect.futufin.com
 DOMAIN-SUFFIX,editor.futunn.com
 DOMAIN-SUFFIX,medialink-jssdk.moomoo.com
 DOMAIN-SUFFIX,emoticon.futunn.com
+DOMAIN-SUFFIX,cos.accelerate.myqcloud.com
+DOMAIN-SUFFIX,cdnquote.futunn.com
+DOMAIN-SUFFIX,stock-resource.futunn.com
+DOMAIN-SUFFIX,stock-reward.futunn.com
+DOMAIN-SUFFIX,promote-image-hk-1251001049.cos.accelerate.myqcloud.com
+DOMAIN-SUFFIX,quote.futunn.com
+nnqimage.futunn.com
 DOMAIN,futuhk.com
 DOMAIN,futunn.com
 DOMAIN,futu.com
@@ -46,6 +54,9 @@ DOMAIN,futuinc.com
 DOMAIN,futuniuniu.com
 DOMAIN,futu.cn
 DOMAIN,futunn.cn
+DOMAIN,futuhn.com
+DOMAIN,futuhk2.com
+DOMAIN,myqcloud.com
 DOMAIN-KEYWORD,futuhk
 DOMAIN-KEYWORD,futunn
 DOMAIN-KEYWORD,futu
