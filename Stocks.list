@@ -112,10 +112,11 @@ DOMAIN,hexun.com
 DOMAIN,iwencai.com
 DOMAIN,thsi.cn
 DOMAIN,tdx.com.cn
-DOMAIN-KEYWORD,10jqka.com.cn
-DOMAIN-KEYWORD,hexun.com
-DOMAIN-KEYWORD,iwencai.com
-DOMAIN-KEYWORD,thsi.cn
+DOMAIN-KEYWORD,10jqka
+DOMAIN-KEYWORD,hexun
+DOMAIN-KEYWORD,iwencai
+DOMAIN-KEYWORD,thsi
+DOMAIN-KEYWORD,ths
 # NAME: TigerFintech
 DOMAIN-SUFFIX,itiger.com
 DOMAIN-SUFFIX,laohu8.com
