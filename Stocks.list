@@ -31,20 +31,23 @@ DOMAIN-SUFFIX,collect.futunn.com
 DOMAIN-SUFFIX,q.futunn.com
 DOMAIN-SUFFIX,editor.futunn.com
 DOMAIN-SUFFIX,emoticon.futunn.com
-DOMAIN-SUFFIX,cos.accelerate.myqcloud.com
 DOMAIN-SUFFIX,cdnquote.futunn.com
 DOMAIN-SUFFIX,stock-resource.futunn.com
 DOMAIN-SUFFIX,stock-reward.futunn.com
-DOMAIN-SUFFIX,promote-image-hk-1251001049.cos.accelerate.myqcloud.com
 DOMAIN-SUFFIX,quote.futunn.com
 DOMAIN-SUFFIX,nnqimage.futunn.com
 DOMAIN,futunn.com
+DOMAIN,futuhn.com
 DOMAIN,futu.com
+DOMAIN,futu5.com
 DOMAIN,futuinc.com
 DOMAIN,futuniuniu.com
 DOMAIN,futu.cn
 DOMAIN,futuhn.com
-DOMAIN,myqcloud.com
+DOMAIN,futufin.com
+DOMAIN,futuhk.com
+DOMAIN,futuhk2.com
+DOMAIN,moomoo.com
 # NAME: longbridge
 DOMAIN-SUFFIX,event-tracking.lbctrl.com
 DOMAIN-SUFFIX,api.lbctrl.com
