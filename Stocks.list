@@ -66,8 +66,8 @@ DOMAIN-SUFFIX,lb-desktop.lbctrl.com
 DOMAIN-SUFFIX,static.lbctrl.com
 DOMAIN-SUFFIX,pub.lbkrs.com
 DOMAIN-SUFFIX,m.lbkrs.com
+#下一行为港股LV2行情域名服务器
 DOMAIN-SUFFIX,quote.longbridge.global
-DOMAIN-SUFFIX,fourier.alibaba.com
 DOMAIN,lbctrl.com
 DOMAIN,lbkrs.com
 DOMAIN,wbrks.com
