@@ -54,25 +54,15 @@ DOMAIN-SUFFIX,quote.lbctrl.com
 DOMAIN-SUFFIX,geotest.lbctrl.com
 DOMAIN-SUFFIX,ws.lbctrl.com
 DOMAIN-SUFFIX,lb-desktop.lbctrl.com
-DOMAIN-SUFFIX,trade.longportapp.com
 DOMAIN-SUFFIX,static.lbctrl.com
-DOMAIN-SUFFIX,quote.longbridge.global
 DOMAIN-SUFFIX,pub.lbkrs.com
 DOMAIN-SUFFIX,m.lbkrs.com
 DOMAIN-SUFFIX,fourier.alibaba.com
 DOMAIN,lbctrl.com
 DOMAIN,lbkrs.com
 DOMAIN,wbrks.com
-DOMAIN,longportapp.com
 DOMAIN,longportapp.cn
 DOMAIN,longbridgeapp.com
-DOMAIN,longbridge.hk
-DOMAIN,qiyukf.com
-DOMAIN-KEYWORD,longbridge
-DOMAIN-KEYWORD,longportapp
-DOMAIN-KEYWORD,longbridgeapp
-DOMAIN-KEYWORD,lbctrl
-DOMAIN-KEYWORD,lbkrs
 # NAME: 10jqka
 DOMAIN-SUFFIX,xfer.10jqka.com.cn
 DOMAIN-SUFFIX,auth.10jqka.com.cn
@@ -130,17 +120,9 @@ DOMAIN,0033.com
 DOMAIN,hexin.cn
 DOMAIN,123ths.com
 DOMAIN,10jqka.com.cn
-DOMAIN,hexun.com
 DOMAIN,iwencai.com
 DOMAIN,thsi.cn
 DOMAIN,tdx.com.cn
-DOMAIN-KEYWORD,10jqka
-DOMAIN-KEYWORD,hexun
-DOMAIN-KEYWORD,iwencai
-DOMAIN-KEYWORD,thsi
-DOMAIN-KEYWORD,ths
-DOMAIN-KEYWORD,hexin
-DOMAIN-KEYWORD,123ths
 # NAME: TigerFintech
 DOMAIN-SUFFIX,itiger.com
 DOMAIN-SUFFIX,laohu8.com
@@ -184,11 +166,3 @@ DOMAIN-SUFFIX,zhaiba.com
 DOMAIN-SUFFIX,zhongcaisuo.cn
 DOMAIN-SUFFIX,zhongcaisuo.com
 DOMAIN-SUFFIX,zhongcaisuo.com.cn
-# NAME: ZR
-DOMAIN-SUFFIX,frontpro.zr66.com
-DOMAIN,zr.hk
-DOMAIN,zr66.com
-DOMAIN,zhuoruint.com
-DOMAIN,cnzz.com
-DOMAIN,zrsechk.com
-DOMAIN-KEYWORD,zhuorui
