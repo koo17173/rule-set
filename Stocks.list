@@ -40,6 +40,13 @@ DOMAIN-SUFFIX,sdauth.futufin.com
 DOMAIN-SUFFIX,collect.futufin.com
 DOMAIN-SUFFIX,medialink-jssdk.moomoo.com
 DOMAIN-SUFFIX,api.moomoo.com
+DOMAIN-SUFFIX,dedog-server.futunn.com
+DOMAIN-SUFFIX,courseimg.futunn.com
+DOMAIN-SUFFIX,s.ssl.qhres2.com
+DOMAIN-SUFFIX,s.360.cn
+DOMAIN-SUFFIX,sf1-scmcdn-tos.pstatp.com
+DOMAIN-SUFFIX,zhanzhang.toutiao.com
+DOMAIN-SUFFIX,unpkg.com
 DOMAIN,futunn.com
 DOMAIN,futuhn.com
 DOMAIN,futu.com
