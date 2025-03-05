@@ -47,8 +47,6 @@ DOMAIN-SUFFIX,collect.futufin.com
 DOMAIN-SUFFIX,invest.futufin.com
 DOMAIN-SUFFIX,consultfthk.futufin.com
 DOMAIN-SUFFIX,consultfthk.futufin.com
-DOMAIN-SUFFIX,medialink-jssdk.moomoo.com
-DOMAIN-SUFFIX,api.moomoo.com
 DOMAIN-SUFFIX,ir.futuholdings.com
 DOMAIN,futunn.com
 DOMAIN,futuhn.com
@@ -60,7 +58,6 @@ DOMAIN,futu.cn
 DOMAIN,futufin.com
 DOMAIN,futuhk.com
 DOMAIN,futuhk2.com
-DOMAIN,moomoo.com
 DOMAIN,futuholdings.com
 DOMAIN-KEYWORD,futunn
 DOMAIN-KEYWORD,futuhn
@@ -71,7 +68,6 @@ DOMAIN-KEYWORD,futuniuniu
 DOMAIN-KEYWORD,futufin
 DOMAIN-KEYWORD,futuhk
 DOMAIN-KEYWORD,futuhk2
-DOMAIN-KEYWORD,moomoo
 # NAME: longbridge
 DOMAIN-SUFFIX,event-tracking.lbctrl.com
 DOMAIN-SUFFIX,api.lbctrl.com
