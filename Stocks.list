@@ -125,12 +125,8 @@ DOMAIN-SUFFIX,m.10jqka.com.cn
 DOMAIN-SUFFIX,basic.10jqka.com.cn
 DOMAIN-SUFFIX,mams.10jqka.com.cn
 DOMAIN-SUFFIX,dq.10jqka.com.cn
-DOMAIN-SUFFIX,QuoteCenter1.s10.tdx.com.cn
-DOMAIN-SUFFIX,QuoteCenter2.s10.tdx.com.cn
-DOMAIN-SUFFIX,Hq.gw.com.cn
-DOMAIN-SUFFIX,x1.s10.tdx.com.cn
-DOMAIN-SUFFIX,x2.s10.tdx.com.cn
-DOMAIN-SUFFIX,hg.s10.tdx.com.cn
+DOMAIN-SUFFIX,gw.com.cn
+DOMAIN-SUFFIX,tdx.com.cn
 DOMAIN-SUFFIX,hq.10jqka.com.cn
 DOMAIN-SUFFIX,quote.10jqka.com.cn
 DOMAIN-SUFFIX,api.10jqka.com.cn
@@ -163,10 +159,8 @@ DOMAIN-KEYWORD,hexun
 DOMAIN-KEYWORD,iwencai
 DOMAIN-KEYWORD,thsi
 DOMAIN-KEYWORD,ths
-DOMAIN-KEYWORD,0033
 DOMAIN-KEYWORD,hexin
 DOMAIN-KEYWORD,123ths
-DOMAIN-KEYWORD,tdx
 # NAME: TigerFintech
 DOMAIN-SUFFIX,itiger.com
 DOMAIN-SUFFIX,laohu8.com
