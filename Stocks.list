@@ -66,6 +66,8 @@ DOMAIN-SUFFIX,lb-desktop.lbctrl.com
 DOMAIN-SUFFIX,static.lbctrl.com
 DOMAIN-SUFFIX,pub.lbkrs.com
 DOMAIN-SUFFIX,m.lbkrs.com
+DOMAIN-SUFFIX,trade.longportapp.com
+DOMAIN-SUFFIX,quote.longbridge.global
 DOMAIN-SUFFIX,fourier.alibaba.com
 DOMAIN,lbctrl.com
 DOMAIN,lbkrs.com
