@@ -75,6 +75,12 @@ DOMAIN,wbrks.com
 DOMAIN,longportapp.cn
 DOMAIN,longportapp.com
 DOMAIN,longbridgeapp.com
+DOMAIN,longbridge.hk
+DOMAIN-KEYWORD,longbridge
+DOMAIN-KEYWORD,longportapp
+DOMAIN-KEYWORD,longbridgeapp
+DOMAIN-KEYWORD,lbctrl
+DOMAIN-KEYWORD,lbkrs
 # NAME: 10jqka
 DOMAIN-SUFFIX,xfer.10jqka.com.cn
 DOMAIN-SUFFIX,auth.10jqka.com.cn
