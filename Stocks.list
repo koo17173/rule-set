@@ -36,6 +36,10 @@ DOMAIN-SUFFIX,stock-resource.futunn.com
 DOMAIN-SUFFIX,stock-reward.futunn.com
 DOMAIN-SUFFIX,quote.futunn.com
 DOMAIN-SUFFIX,nnqimage.futunn.com
+DOMAIN-SUFFIX,sdauth.futufin.com
+DOMAIN-SUFFIX,collect.futufin.com
+DOMAIN-SUFFIX,medialink-jssdk.moomoo.com
+DOMAIN-SUFFIX,api.moomoo.com
 DOMAIN,futunn.com
 DOMAIN,futuhn.com
 DOMAIN,futu.com
