@@ -40,8 +40,6 @@ DOMAIN-SUFFIX,sdauth.futufin.com
 DOMAIN-SUFFIX,collect.futufin.com
 DOMAIN-SUFFIX,medialink-jssdk.moomoo.com
 DOMAIN-SUFFIX,api.moomoo.com
-DOMAIN-SUFFIX,promote-image-hk-1251001049.cos.accelerate.myqcloud.com
-DOMAIN-SUFFIX,cos.accelerate.myqcloud.com
 DOMAIN,futunn.com
 DOMAIN,futuhn.com
 DOMAIN,futu.com
@@ -54,7 +52,8 @@ DOMAIN,futufin.com
 DOMAIN,futuhk.com
 DOMAIN,futuhk2.com
 DOMAIN,moomoo.com
-DOMAIN,myqcloud.com
+DOMAIN-KEYWORD,futu
+DOMAIN-KEYWORD,moomoo
 # NAME: longbridge
 DOMAIN-SUFFIX,event-tracking.lbctrl.com
 DOMAIN-SUFFIX,api.lbctrl.com
