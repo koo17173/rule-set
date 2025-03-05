@@ -47,13 +47,18 @@ DOMAIN,futu5.com
 DOMAIN,futuinc.com
 DOMAIN,futuniuniu.com
 DOMAIN,futu.cn
-DOMAIN,futuhn.com
 DOMAIN,futufin.com
 DOMAIN,futuhk.com
 DOMAIN,futuhk2.com
 DOMAIN,moomoo.com
+DOMAIN-KEYWORD,futunn
+DOMAIN-KEYWORD,futuhn
 DOMAIN-KEYWORD,futu
-DOMAIN-KEYWORD,quote
+DOMAIN-KEYWORD,futuinc
+DOMAIN-KEYWORD,futufin
+DOMAIN-KEYWORD,futuhk
+DOMAIN-KEYWORD,futuhk2
+DOMAIN-KEYWORD,moomoo
 # NAME: longbridge
 DOMAIN-SUFFIX,event-tracking.lbctrl.com
 DOMAIN-SUFFIX,api.lbctrl.com
