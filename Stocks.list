@@ -144,11 +144,9 @@ DOMAIN-SUFFIX,i.thsi.cn
 DOMAIN-SUFFIX,ad.thsi.cn
 DOMAIN-SUFFIX,m.0033.com
 DOMAIN-SUFFIX,apm.hexin.cn
-DOMAIN-SUFFIX,mobi2.123ths.com
 DOMAIN-SUFFIX,mnews.hexin.cn
 DOMAIN,0033.com
 DOMAIN,hexin.cn
-DOMAIN,123ths.com
 DOMAIN,10jqka.com.cn
 DOMAIN,iwencai.com
 DOMAIN,thsi.cn
@@ -159,7 +157,6 @@ DOMAIN-KEYWORD,10jqka
 DOMAIN-KEYWORD,hexun
 DOMAIN-KEYWORD,hexin
 DOMAIN-KEYWORD,iwencai
-DOMAIN-KEYWORD,123ths
 DOMAIN-KEYWORD,thsi
 DOMAIN-KEYWORD,ths
 # NAME: TigerFintech
