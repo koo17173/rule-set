@@ -1,4 +1,4 @@
-# NAME: htsc/futu/longbridge/10jqka/TigerFintech/EastMoney
+# NAME: htsc/futu/longbridge/10jqka//EastMoney
 # AUTHOR: leo
 # REPO: https://github.com/koo17173/rule-set/blob/main/Stocks.list
 # UPDATED: 2025-03-01
@@ -81,7 +81,7 @@ DOMAIN,lb-desktop.lbctrl.com
 DOMAIN,static.lbctrl.com
 DOMAIN,pub.lbkrs.com
 DOMAIN,m.lbkrs.com
-#下两行为港股LV2行情域名服务器
+#下两行对港股LV2行情域名服务器很重要
 DOMAIN,quote.longbridge.global
 DOMAIN,trade.longportapp.com
 DOMAIN-SUFFIX,lbctrl.com
