@@ -15,12 +15,10 @@ IP-CIDR,69.46.75.0/24,no-resolve
 IP-CIDR,205.164.56.0/24,no-resolve
 IP-CIDR,63.251.124.0/24,no-resolve
 IP-CIDR,216.172.154.0/24,no-resolve
-# T-Mobile/Ultramobile
-# > 注：1.代理线路需支持UDP 2.最好为美国线路IPLC
+# T-Mobile/Ultramobile---->代理线路需支持UDP
 IP-CIDR,66.94.0.0/19,no-resolve
 IP-CIDR,206.29.177.36/32,no-resolve
 IP-CIDR,208.54.0.0/16,no-resolve
-# Wifi Calling
 DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
