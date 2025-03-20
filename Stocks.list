@@ -7,12 +7,33 @@
 # TOTAL: 
 #NAME: htsc
 DOMAIN-SUFFIX,zhangle.com
-DOMAIN-SUFFIX,zhangleglobal.com
 DOMAIN-SUFFIX,htsc.com
 DOMAIN-SUFFIX,htsc.com.cn
+DOMAIN-SUFFIX,m.zhangleglobal.com
 # NAME: futu
 DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futu.link
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futu.com
+DOMAIN-SUFFIX,futu1.com
+DOMAIN-SUFFIX,futu2.com
+DOMAIN-SUFFIX,futu3.com
+DOMAIN-SUFFIX,futu4.com
+DOMAIN-SUFFIX,futu6.com
+DOMAIN-SUFFIX,futu7.com
+DOMAIN-SUFFIX,futu8.com
+DOMAIN-SUFFIX,futu9.com
+DOMAIN-SUFFIX,futuinc.com
+DOMAIN-SUFFIX,futuniuniu.com
+DOMAIN-SUFFIX,futu.cn
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhk2.com
+DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,futuesop.com
+DOMAIN-SUFFIX,futubull.cn
+DOMAIN-SUFFIX,futuchain.com
 # NAME: longbridge
 #下两行对港股LV2行情域名服务器很重要
 DOMAIN,quote.longbridge.global
