@@ -2,11 +2,6 @@
 # AUTHOR: leo
 # REPO: https://github.com/koo17173/rule-set/blob/main/Stocks.list
 # UPDATED: 2025-03-01
-# DOMAIN-SUFFIX: 
-# DOMAIN: 
-# TOTAL: 
-#NAME: futu
-DOMAIN-SUFFIX,futufin.com
 #NAME: htsc
 DOMAIN-SUFFIX,zhangle.com
 DOMAIN-SUFFIX,htsc.com
