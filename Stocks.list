@@ -4,7 +4,6 @@
 # UPDATED: 2025-03-01
 #NAME: IP Query
 DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,maxmind.com
 #NAME: htsc
 DOMAIN-SUFFIX,zhangle.com
 DOMAIN-SUFFIX,htsc.com
@@ -65,9 +64,11 @@ DOMAIN-SUFFIX,5ifund.com
 DOMAIN-SUFFIX,yingfund.net
 DOMAIN-SUFFIX,myhexin.com
 DOMAIN-SUFFIX,123ths.com
+DOMAIN-SUFFIX,ths123.com
 DOMAIN-SUFFIX,huntgold.cn
 DOMAIN-SUFFIX,thsbaoxian.net
 DOMAIN-SUFFIX,touzime.net
+DOMAIN-SUFFIX,hithink.com
 # NAME: EastMoney
 DOMAIN-SUFFIX,1234567.com.cn
 DOMAIN-SUFFIX,18.cn
