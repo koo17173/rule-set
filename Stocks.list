@@ -2,6 +2,8 @@
 # AUTHOR: leo
 # REPO: https://github.com/koo17173/rule-set/blob/main/Stocks.list
 # UPDATED: 2025-03-01
+#NAME: IP Query
+DOMAIN-SUFFIX,ip-api.com
 #NAME: htsc
 DOMAIN-SUFFIX,zhangle.com
 DOMAIN-SUFFIX,htsc.com
