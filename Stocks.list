@@ -4,6 +4,7 @@
 # UPDATED: 2025-03-01
 #NAME: IP Query
 DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,maxmind.com
 #NAME: htsc
 DOMAIN-SUFFIX,zhangle.com
 DOMAIN-SUFFIX,htsc.com
