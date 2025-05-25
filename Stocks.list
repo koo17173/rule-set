@@ -5,16 +5,15 @@
 #NAME: IP Query
 DOMAIN-SUFFIX,ip-api.com
 #NAME: htsc
+#Domain:htsc.com.hk
 DOMAIN-SUFFIX,zhangle.com
 DOMAIN-SUFFIX,htsc.com
 DOMAIN-SUFFIX,htsc.com.cn
 DOMAIN-SUFFIX,m.zhangleglobal.com
 DOMAIN-SUFFIX,zhangleglobal.com
-DOMAIN-SUFFIX,htsc.com.hk
 DOMAIN-SUFFIX,ihtfin.com
 DOMAIN-SUFFIX,95597.com
 DOMAIN-SUFFIX,amazonaws.cn
-
 # NAME: longbridge
 #下两行对港股LV2行情域名服务器很重要
 DOMAIN,quote.longbridge.global
