@@ -32,7 +32,6 @@ DOMAIN-SUFFIX,longportapp.com
 DOMAIN-SUFFIX,longbridgeapp.com
 DOMAIN-SUFFIX,longbridge.hk
 # NAME: futu
-DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futu.link
 DOMAIN-SUFFIX,futunn.com
@@ -43,6 +42,7 @@ DOMAIN-SUFFIX,futu1.com
 DOMAIN-SUFFIX,futu2.com
 DOMAIN-SUFFIX,futu3.com
 DOMAIN-SUFFIX,futu4.com
+DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,futu6.com
 DOMAIN-SUFFIX,futu7.com
 DOMAIN-SUFFIX,futu8.com
@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futubull.cn
 DOMAIN-SUFFIX,futuchain.com
 DOMAIN-SUFFIX,fututrade.com
+DOMAIN-SUFFIX,futustatic.com
 # NAME: 10jqka
 DOMAIN,m.10jqka.com.cn
 DOMAIN,t.10jqka.com.cn
