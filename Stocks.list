@@ -56,8 +56,7 @@ DOMAIN-SUFFIX,futuholdings.com
 DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futubull.cn
 DOMAIN-SUFFIX,futuchain.com
-DOMAIN-SUFFIX,fututrade.com
-DOMAIN-SUFFIX,futustatic.com
+DOMAIN,cdn.futustatic.com
 # NAME: 10jqka
 DOMAIN,m.10jqka.com.cn
 DOMAIN,t.10jqka.com.cn
