@@ -57,6 +57,10 @@ DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futubull.cn
 DOMAIN-SUFFIX,futuchain.com
 DOMAIN,cdn.futustatic.com
+IP-CIDR,119.28.37.77/24,no-resolve
+IP-CIDR,43.153.233.212/24,no-resolve
+IP-CIDR,124.156.233.21/24,no-resolve
+IP-CIDR,170.106.49.68/24,no-resolve
 # NAME: 10jqka
 DOMAIN,m.10jqka.com.cn
 DOMAIN,t.10jqka.com.cn
