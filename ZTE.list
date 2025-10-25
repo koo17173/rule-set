@@ -3,7 +3,8 @@
 # REPO: https://github.com/koo17173/rule-set
 # UPDATED: 2025-06-06 09:18:54
 # DOMAIN-SUFFIX: 20
-# TOTAL: 20
+# IP-CIDR: 1
+# TOTAL: 21
 DOMAIN-SUFFIX,3gcare.cn
 DOMAIN-SUFFIX,nubia.cc
 DOMAIN-SUFFIX,nubia.cn
@@ -24,5 +25,5 @@ DOMAIN-SUFFIX,ztehotel.net
 DOMAIN-SUFFIX,ztemall.com
 DOMAIN-SUFFIX,ztems.com
 DOMAIN-SUFFIX,zxingyun.com
-IP-CIDR,218.17.103.187
+IP-CIDR,218.17.103.187/24,no-resolve
 
