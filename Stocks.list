@@ -4,6 +4,8 @@
 # UPDATED: 2025-03-01
 #NAME: IP Query
 DOMAIN-SUFFIX,ip-api.com
+#天天象棋广告
+DOMAIN-SUFFIX,gdt.qq.com
 #NAME: htsc
 #Domain:htsc.com.hk
 DOMAIN-SUFFIX,zhangle.com
