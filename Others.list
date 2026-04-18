@@ -22,4 +22,5 @@ DOMAIN-SUFFIX,nmcloud.cc
 DOMAIN-SUFFIX,tongritech.com
 DOMAIN-SUFFIX,coalcloud.net
 DOMAIN-SUFFIX,challenges.cloudflare.com
+IP-CIDR,8.222.255.182/32
 
