@@ -25,6 +25,7 @@ IP-CIDR,122.96.150.194/24,no-resolve
 IP-CIDR,122.96.107.230/24,no-resolve
 IP-CIDR,153.3.219.115/24,no-resolve
 IP-CIDR,157.0.28.40/24,no-resolve
+IP-CIDR,157.0.31.198/24,no-resolve
 #江苏移动
 IP-CIDR,120.195.71.165/24,no-resolve
 IP-CIDR,218.206.101.200/24,no-resolve
