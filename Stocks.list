@@ -12,13 +12,14 @@ DOMAIN-SUFFIX,htsc.com.cn
 DOMAIN-SUFFIX,zhangleglobal.com
 DOMAIN-SUFFIX,ihtfin.com
 DOMAIN-SUFFIX,95597.com
-DOMAIN-SUFFIX,amazonaws.cn
+DOMAIN,log2.cmpassport.com
 IP-CIDR,221.226.112.153/32,no-resolve
 IP-CIDR,222.190.108.157/32,no-resolve
 IP-CIDR,47.106.98.6/32,no-resolve
 IP-CIDR,180.101.228.6/32,no-resolve
 IP-CIDR,180.101.224.8/32,no-resolve
-IP-CIDR,180.101.48.146/32,no-resolve
+IP-CIDR,180.101.48.146/24,no-resolve
+IP-CIDR,153.3.219.115/32,no-resolbe
 # NAME: longbridge
 #下两行对港股LV2行情域名服务器很重要
 DOMAIN,quote.longbridge.global
