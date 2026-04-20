@@ -84,6 +84,7 @@ IP-CIDR,170.106.49.68/24,no-resolve
 # NAME: 10jqka
 DOMAIN,m.10jqka.com.cn
 DOMAIN,t.10jqka.com.cn
+DOMAIN,msv6.wosms.cn
 DOMAIN-SUFFIX,0033.com
 DOMAIN-SUFFIX,hexin.cn
 DOMAIN-SUFFIX,10jqka.com.cn
@@ -113,6 +114,9 @@ DOMAIN-SUFFIX,thsyun.com
 DOMAIN-SUFFIX,voiceclub.cn
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,sinajs.cn
+DOMAIN-SUFFIX,hxkba.com
+IP-CIDR,122.9.119.201/24,no-resolve
+IP-CIDR,122.9.90.189/24,no-resolve
 # NAME: EastMoney
 DOMAIN-SUFFIX,1234567.com.cn
 DOMAIN-SUFFIX,18.cn
