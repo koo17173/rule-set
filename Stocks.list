@@ -22,13 +22,14 @@ IP-CIDR,180.101.224.8/24,no-resolve
 IP-CIDR,218.2.129.134/24,no-resolve
 #江苏联通
 IP-CIDR,122.96.150.194/24,no-resolve
-IP-CIDR,157.0.28.40/24,no-resolve
 IP-CIDR,122.96.107.230/24,no-resolve
 IP-CIDR,153.3.219.115/24,no-resolve
+IP-CIDR,157.0.28.40/24,no-resolve
 #江苏移动
-IP-CIDR,218.206.101.200/24,no-resolve
 IP-CIDR,120.195.71.165/24,no-resolve
+IP-CIDR,218.206.101.200/24,no-resolve
 IP-CIDR,223.112.1.226/24,no-resolve
+IP-CIDR,223.112.19.214/24,no-resolve
 IP-CIDR,223.112.24.201/24,no-resolve
 #广东阿里云
 IP-CIDR,47.106.98.6/24,no-resolve
