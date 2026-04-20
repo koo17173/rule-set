@@ -23,6 +23,9 @@ IP-CIDR,153.3.219.115/24,no-resolbe
 IP-CIDR,122.96.107.230/24,no-resolbe
 IP-CIDR,122.96.150.194/24,no-resolbe
 IP-CIDR,157.0.28.40/24,no-resolbe
+IP-CIDR,120.79.254.241/24,no-resolbe
+IP-CIDR,120.232.131.223/24,no-resolbe
+IP-CIDR,124.70.163.208/32,no-resolbe
 # NAME: longbridge
 #下两行对港股LV2行情域名服务器很重要
 DOMAIN,quote.longbridge.global
