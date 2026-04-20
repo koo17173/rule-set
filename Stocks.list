@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,htsc.com
 DOMAIN-SUFFIX,htsc.com.cn
 DOMAIN-SUFFIX,zhangleglobal.com
 DOMAIN-SUFFIX,ihtfin.com
-DOMAIN-SUFFIX,95597.com
+DOMAIN,gs-loc-cn.apple.com
 DOMAIN,log2.cmpassport.com
 IP-CIDR,221.226.112.153/32,no-resolve
 IP-CIDR,222.190.108.157/32,no-resolve
