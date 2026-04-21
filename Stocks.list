@@ -9,9 +9,12 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,zhangle.com
 DOMAIN-SUFFIX,htsc.com
 DOMAIN-SUFFIX,htsc.com.cn
+DOMAIN-SUFFIX,htzq.com.cn
 DOMAIN-SUFFIX,zhangleglobal.com
 DOMAIN-SUFFIX,ihtfin.com
 DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,finet.com.cn
+DOMAIN-SUFFIX,roadshowing.com
 #gs-loc-cn.apple.com
 #江苏电信
 IP-CIDR,180.101.48.162/24,no-resolve
