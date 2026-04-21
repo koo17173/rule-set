@@ -120,6 +120,7 @@ DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,hxkba.com
 IP-CIDR,122.9.119.201/24,no-resolve
 IP-CIDR,122.9.90.189/24,no-resolve
+IP-CIDR,221.236.15.38/24,no-resolve
 # NAME: EastMoney
 DOMAIN-SUFFIX,1234567.com.cn
 DOMAIN-SUFFIX,18.cn
