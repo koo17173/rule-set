@@ -60,7 +60,7 @@ DOMAIN-SUFFIX,futumkt.com
 DOMAIN-SUFFIX,futu.sg
 DOMAIN-SUFFIX,futu.au
 DOMAIN-SUFFIX,futusg.com
-DOMAIN,cdn.futustatic.com
+DOMAIN-SUFFIX,futustatic.com
 # --- Aggressive fallback ---
 DOMAIN-KEYWORD,futunn
 DOMAIN-KEYWORD,futubull
