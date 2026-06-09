@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,futuau.com
 DOMAIN-SUFFIX,futugo.com
 DOMAIN-SUFFIX,futuseg.com
 DOMAIN,cdn.futustatic.com
-IP-CIDR,43.152.0.0/14,no-resolve
+IP-CIDR,43.153.0.0/16,no-resolve
 IP-CIDR,49.234.0.0/16,no-resolve
 IP-CIDR,101.32.0.0/16,no-resolve
 IP-CIDR,119.28.0.0/13,no-resolve
