@@ -87,3 +87,36 @@ DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,hxkba.com
 IP-CIDR,122.9.0.0/16,no-resolve
 IP-CIDR,221.236.0.0/16,no-resolve
+
+#NAME: IP Query
+DOMAIN-SUFFIX,ip-api.com
+#NAME: htsc
+#Domain:htsc.com.hk
+DOMAIN-SUFFIX,zhangle.com
+DOMAIN-SUFFIX,htsc.com
+DOMAIN-SUFFIX,htsc.com.cn
+DOMAIN-SUFFIX,htzq.com.cn
+DOMAIN-SUFFIX,zhangleglobal.com
+DOMAIN-SUFFIX,ihtfin.com
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,finet.com.cn
+DOMAIN-SUFFIX,roadshowing.com
+#江苏电信
+IP-CIDR,180.101.0.0/16,no-resolve
+IP-CIDR,222.190.0.0/16,no-resolve
+IP-CIDR,221.226.0.0/16,no-resolve
+IP-CIDR,218.2.0.0/16,no-resolve
+#江苏联通
+IP-CIDR,122.96.0.0/16,no-resolve
+IP-CIDR,153.3.0.0/16,no-resolve
+IP-CIDR,157.0.0.0/16,no-resolve
+#江苏移动
+IP-CIDR,120.195.0.0/16,no-resolve
+IP-CIDR,218.206.0.0/16,no-resolve
+IP-CIDR,223.112.0.0/16,no-resolve
+#广东阿里云
+IP-CIDR,47.106.0.0/16,no-resolve
+IP-CIDR,120.79.0.0/16,no-resolve
+#上海华为云
+IP-CIDR,124.70.0.0/16,no-resolve
+IP-CIDR,113.44.0.0/16,no-resolve
