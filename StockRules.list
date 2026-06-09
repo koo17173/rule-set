@@ -56,13 +56,18 @@ DOMAIN-SUFFIX,futuau.com
 DOMAIN-SUFFIX,futugo.com
 DOMAIN-SUFFIX,futuseg.com
 DOMAIN,cdn.futustatic.com
-IP-CIDR,119.28.0.0/13,no-resolve
 IP-CIDR,43.128.0.0/16,no-resolve
-IP-CIDR,129.226.0.0/16,no-resolve
+IP-CIDR,43.130.0.0/16,no-resolve
+IP-CIDR,43.135.0.0/16,no-resolve
+IP-CIDR,43.152.0.0/16,no-resolve
 IP-CIDR,43.153.0.0/16,no-resolve
-IP-CIDR,124.156.0.0/16,no-resolve
-IP-CIDR,170.106.0.0/16,no-resolve
+IP-CIDR,43.175.0.0/16,no-resolve
 IP-CIDR,101.32.0.0/16,no-resolve
+IP-CIDR,119.28.0.0/13,no-resolve
+IP-CIDR,124.156.0.0/16,no-resolve
+IP-CIDR,129.226.0.0/16,no-resolve
+IP-CIDR,170.106.0.0/16,no-resolve
+
 
 # NAME: 同花顺
 DOMAIN,m.10jqka.com.cn
