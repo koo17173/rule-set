@@ -23,7 +23,9 @@ DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futusg.com
 DOMAIN-SUFFIX,futu.link
 DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futunn.cn
 DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futusign.com
 DOMAIN-SUFFIX,futu.com
 DOMAIN-SUFFIX,futuinc.com
 DOMAIN-SUFFIX,futu.com
@@ -51,11 +53,23 @@ DOMAIN-SUFFIX,ftnndn.com
 DOMAIN-SUFFIX,futuweb.com
 DOMAIN-SUFFIX,futures.hk
 DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoo-us.com
 DOMAIN-SUFFIX,fututrade.com
-DOMAIN-SUFFIX,futuau.com
-DOMAIN-SUFFIX,futugo.com
-DOMAIN-SUFFIX,futuseg.com
+DOMAIN-SUFFIX,futusecurities.com
+DOMAIN-SUFFIX,futumkt.com
+DOMAIN-SUFFIX,futu.sg
+DOMAIN-SUFFIX,futu.au
+DOMAIN-SUFFIX,futusg.com
 DOMAIN,cdn.futustatic.com
+# --- Aggressive fallback ---
+DOMAIN-KEYWORD,futunn
+DOMAIN-KEYWORD,futubull
+DOMAIN-KEYWORD,futuhk
+DOMAIN-KEYWORD,futufin
+DOMAIN-KEYWORD,futuholdings
+DOMAIN-KEYWORD,futuniuniu
+DOMAIN-KEYWORD,futuesop
+DOMAIN-KEYWORD,moomoo
 IP-CIDR,43.153.0.0/16,no-resolve
 IP-CIDR,49.234.0.0/16,no-resolve
 IP-CIDR,101.32.0.0/16,no-resolve
