@@ -20,11 +20,23 @@ IP-CIDR,161.117.0.0/16,no-resolve
 
 # NAME: 富途牛牛
 DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futusg.com
 DOMAIN-SUFFIX,futu.link
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futuhn.com
 DOMAIN-SUFFIX,futu.com
 DOMAIN-SUFFIX,futuinc.com
+DOMAIN-SUFFIX,futu.com
+DOMAIN-SUFFIX,futu0.com
+DOMAIN-SUFFIX,futu1.com
+DOMAIN-SUFFIX,futu2.com
+DOMAIN-SUFFIX,futu3.com
+DOMAIN-SUFFIX,futu4.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futu6.com
+DOMAIN-SUFFIX,futu7.com
+DOMAIN-SUFFIX,futu8.com
+DOMAIN-SUFFIX,futu9.com
 DOMAIN-SUFFIX,futuniuniu.com
 DOMAIN-SUFFIX,futu.cn
 DOMAIN-SUFFIX,futufin.com
@@ -39,6 +51,7 @@ DOMAIN-SUFFIX,ftnndn.com
 DOMAIN-SUFFIX,futuweb.com
 DOMAIN-SUFFIX,futures.hk
 DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,fututrade.com
 DOMAIN-SUFFIX,futuau.com
 DOMAIN-SUFFIX,futugo.com
 DOMAIN-SUFFIX,futuseg.com
