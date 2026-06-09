@@ -1,4 +1,4 @@
-# NAME: ，长桥证券&富途证券
+# NAME: ，长桥证券&富途证券&同花顺
 # AUTHOR: Leo
 # NAME: 长桥证券
 DOMAIN,quote.longbridge.global
@@ -50,3 +50,40 @@ IP-CIDR,43.153.0.0/16,no-resolve
 IP-CIDR,124.156.0.0/16,no-resolve
 IP-CIDR,170.106.0.0/16,no-resolve
 IP-CIDR,101.32.0.0/16,no-resolve
+
+# NAME: 同花顺
+DOMAIN,m.10jqka.com.cn
+DOMAIN,t.10jqka.com.cn
+DOMAIN,msv6.wosms.cn
+DOMAIN-SUFFIX,0033.com
+DOMAIN-SUFFIX,hexin.cn
+DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,iwencai.com
+DOMAIN-SUFFIX,thsi.cn
+DOMAIN-SUFFIX,tdx.com.cn
+DOMAIN-SUFFIX,gw.com.cn
+DOMAIN-SUFFIX,hexun.com
+DOMAIN-SUFFIX,myhexun.com
+DOMAIN-SUFFIX,soumoney.com.cn
+DOMAIN-SUFFIX,thsbx.com
+DOMAIN-SUFFIX,ticang.com
+DOMAIN-SUFFIX,51ifind.com
+DOMAIN-SUFFIX,5ifund.com
+DOMAIN-SUFFIX,yingfund.net
+DOMAIN-SUFFIX,myhexin.com
+DOMAIN-SUFFIX,123ths.com
+DOMAIN-SUFFIX,ths123.com
+DOMAIN-SUFFIX,huntgold.cn
+DOMAIN-SUFFIX,thsbaoxian.net
+DOMAIN-SUFFIX,touzime.net
+DOMAIN-SUFFIX,hithink.com
+DOMAIN-SUFFIX,myhithink.com
+DOMAIN-SUFFIX,zhifutech.com
+DOMAIN-SUFFIX,aicubes.cn
+DOMAIN-SUFFIX,thsyun.com
+DOMAIN-SUFFIX,voiceclub.cn
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,sinajs.cn
+DOMAIN-SUFFIX,hxkba.com
+IP-CIDR,122.9.0.0/16,no-resolve
+IP-CIDR,221.236.0.0/16,no-resolve
