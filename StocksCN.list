@@ -36,7 +36,7 @@ IP-CIDR,122.9.0.0/16,no-resolve
 IP-CIDR,221.236.0.0/16,no-resolve
 
 #NAME: IP Query
-#DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ip-api.com
 #NAME: 华泰HK
 #Domain:htsc.com.hk
 DOMAIN-SUFFIX,zhangle.com
