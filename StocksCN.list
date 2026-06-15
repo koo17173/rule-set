@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,voiceclub.cn
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,hxkba.com
+DOMAIN-SUFFIX,yongginbao.com.cn
 IP-CIDR,122.9.0.0/16,no-resolve
 IP-CIDR,221.236.0.0/16,no-resolve
 
