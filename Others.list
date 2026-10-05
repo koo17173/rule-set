@@ -23,4 +23,5 @@ DOMAIN-SUFFIX,tongritech.com
 DOMAIN-SUFFIX,coalcloud.net
 DOMAIN-SUFFIX,challenges.cloudflare.com
 IP-CIDR,8.222.255.182/32
+IP-CIDR,47.178.14.172/32
 
