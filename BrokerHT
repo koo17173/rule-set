@@ -1,6 +1,6 @@
 
 #NAME: IP Query
-#DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ip-api.com
 #NAME: 华泰HK
 DOMAIN-SUFFIX,htsc.com.hk
 DOMAIN-SUFFIX,zhangle.com
